@@ -1,18 +1,27 @@
 # ScifiStarNameGenerator
 Generates a name for star/planetary systems given a specific format
 
-Supply a string in a comma-delimited format to the method. e.g "C,V,C,V" to generate a four letter name.
-
 Formats:
+
 C = consonants
+
 V = vowels
+
 CD = consonant digraphs
+
 VD = vowel digraphs
+
 CT = consonant trigraphs
+
 GLN = greek letter word names
+
 MN = misc words
+
 FA = flair affixes
+
 S = symbols
+
+Supply a string in a comma-delimited format to the method. e.g "C,V,C,V" to generate a four letter name.
 
 Sample output:
 
