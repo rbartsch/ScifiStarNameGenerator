@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScifiStarNameGenerator", "ScifiStarNameGenerator\ScifiStarNameGenerator.csproj", "{254266F8-BD1A-40FB-90ED-B2FA0DE18A49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScifiStarNameGeneratorExample", "ScifiStarNameGeneratorExample\ScifiStarNameGeneratorExample.csproj", "{989CEFAB-1495-4E76-AF50-E94627AC4C91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{254266F8-BD1A-40FB-90ED-B2FA0DE18A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254266F8-BD1A-40FB-90ED-B2FA0DE18A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254266F8-BD1A-40FB-90ED-B2FA0DE18A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254266F8-BD1A-40FB-90ED-B2FA0DE18A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{989CEFAB-1495-4E76-AF50-E94627AC4C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989CEFAB-1495-4E76-AF50-E94627AC4C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989CEFAB-1495-4E76-AF50-E94627AC4C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989CEFAB-1495-4E76-AF50-E94627AC4C91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB1F44E3-018E-4B63-8956-954CA38A0429}
+	EndGlobalSection
+EndGlobal
